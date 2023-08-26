@@ -1,7 +1,11 @@
 # Social Media Use Survey App
 
 A new Flutter project for my CSCI 345 (Mobile App Development) class. This 
-app that surveys the user by asking questions about their social media use and habits.
+app surveys the user by asking questions about their social media use and habits.
+Depending on the user's answers to the questions asked the app will yield different results.
+For example: if a user answers that they use social media often and several hours a day then 
+the app will return some advice telling them to take a break or use social media less often.
+If they aren't using social media too frequently they are told to keep up their good habits.
 
 ## The video of my Flutter app at work
 https://github.com/DaifMoe/Social-Media-Use-Survey-App/assets/85468822/d7d8f9a5-3a01-436e-a571-b44b1724c1a0
